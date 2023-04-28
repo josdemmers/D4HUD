@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PInvoke.DwmApi" Version="0.7.124" />
+    <PackageReference Include="PInvoke.Gdi32" Version="0.7.124" />
+    <PackageReference Include="PInvoke.User32" Version="0.7.124" />
+  </ItemGroup>
+
+</Project>

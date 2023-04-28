@@ -1,0 +1,186 @@
+{
+  "PersistOverlayObjects": [
+    {
+      "Id": "diablo",
+      "Left": 10,
+      "Top": 10,
+      "Width": 50,
+      "Height": 50
+    },
+    {
+      "Id": "diablo.config",
+      "Left": 60,
+      "Top": 10,
+      "Width": 50,
+      "Height": 50
+    },
+    {
+      "Id": "diablo.config.roi",
+      "Left": 110,
+      "Top": 10,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "diablo.config.interface",
+      "Left": 210,
+      "Top": 10,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "diablo.config.save",
+      "Left": 110,
+      "Top": 110,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "diablo.reset",
+      "Left": 60,
+      "Top": 60,
+      "Width": 50,
+      "Height": 50
+    },
+    {
+      "Id": "diablo.reset.1920x1080",
+      "Left": 110,
+      "Top": 10,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "diablo.reset.2560x1440",
+      "Left": 210,
+      "Top": 10,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "diablo.reset.custom",
+      "Left": 310,
+      "Top": 10,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Id": "roi.minimap",
+      "Left": 2140,
+      "Top": 85,
+      "Width": 390,
+      "Height": 275
+    },
+    {
+      "Id": "roi.exp",
+      "Left": 1052,
+      "Top": 1282,
+      "Width": 487,
+      "Height": 10
+    },
+    {
+      "Id": "roi.skill1",
+      "Left": 1043,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.skill2",
+      "Left": 1127,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.skill3",
+      "Left": 1211,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.skill4",
+      "Left": 1295,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.skill5",
+      "Left": 1379,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.skill6",
+      "Left": 1463,
+      "Top": 1302,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "roi.hp",
+      "Left": 820,
+      "Top": 1230,
+      "Width": 5,
+      "Height": 180
+    },
+    {
+      "Id": "roi.mp",
+      "Left": 1752,
+      "Top": 1230,
+      "Width": 5,
+      "Height": 180
+    },
+    {
+      "Id": "config.positions",
+      "Left": 1130,
+      "Top": 570,
+      "Width": 300,
+      "Height": 300
+    },
+    {
+      "Id": "interface.skill1",
+      "Left": 1043,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "interface.skill2",
+      "Left": 1127,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "interface.skill3",
+      "Left": 1211,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "interface.skill4",
+      "Left": 1295,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "interface.skill5",
+      "Left": 1379,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    },
+    {
+      "Id": "interface.skill6",
+      "Left": 1463,
+      "Top": 200,
+      "Width": 75,
+      "Height": 85
+    }
+  ]
+}
